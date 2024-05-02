@@ -7,4 +7,4 @@ NPC Text is sent to Elevenlabs to be converted to NPC Audio >
 NPC Audio is sent back >
 NPC Audio is played through speaker to Player
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Qwertik/AI_GM_App/blob/main/plan01.png)
